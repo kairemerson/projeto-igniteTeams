@@ -5,6 +5,8 @@ import {useFonts, Roboto_400Regular, Roboto_700Bold} from "@expo-google-fonts/ro
 
 import { Groups } from '@screens/Groups';
 import { Loading } from "@components/Loading";
+import { NewGroup } from "@screens/NewGroup";
+import { Playres } from "@screens/Players";
 
 export default function App() {
 
